@@ -1,0 +1,13 @@
+{
+	"auto_complete": true,
+	"auto_match_enabled": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"update_check": false
+}

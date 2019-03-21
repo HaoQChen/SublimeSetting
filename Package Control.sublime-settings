@@ -1,0 +1,42 @@
+{
+	"bootstrapped": true,
+	"downloader_precedence":
+	{
+		"linux":
+		[
+			"curl",
+			"urllib",
+			"wget"
+		],
+		"osx":
+		[
+			"curl",
+			"urllib"
+		],
+		"windows":
+		[
+			"wininet"
+		]
+	},
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"C++ Completions",
+		"ClangAutoComplete",
+		"Codecs33",
+		"ConvertToUTF8",
+		"GBK Support",
+		"Go To Definition",
+		"LiveReload",
+		"MarkdownEditing",
+		"MarkdownLivePreview",
+		"MarkdownPreview",
+		"Package Control",
+		"Qt Completions for C++",
+		"Sublimerge 3",
+		"Theme - Soda"
+	]
+}
